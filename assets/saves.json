@@ -1,0 +1,24 @@
+[
+{
+	"class": "com.dapasril.finalprojectpbo.managers.SaveManager$PlayerData",
+	"username": "callsigndap",
+	"highestLevel": 20,
+	"totalCollected": 1
+},
+{
+	"class": "com.dapasril.finalprojectpbo.managers.SaveManager$PlayerData",
+	"username": "jamesbond",
+	"highestLevel": 20,
+	"totalCollected": 1
+},
+{
+	"class": "com.dapasril.finalprojectpbo.managers.SaveManager$PlayerData",
+	"username": "yea well",
+	"highestLevel": 20
+},
+{
+	"class": "com.dapasril.finalprojectpbo.managers.SaveManager$PlayerData",
+	"username": "dangerous world tour",
+	"highestLevel": 20
+}
+]
