@@ -1,6 +1,6 @@
 # Recycopter
 
-**Recycopter** is an endless arcade simulation game where you pilot a helicopter and a boat to clean up the environment. Collect trash from the ocean and islands, recycle it into useful materials, and upgrade your gear to reach higher levels. Check out more at [Recycopter](https://recycopter.madebydap.my.id)  
+**Recycopter** is an endless arcade simulation game where you pilot a helicopter and a boat to clean up the environment. Collect trash from the ocean and islands, recycle it into useful materials, and upgrade your gear to reach higher levels. Check out more at [recycopter.madebydap.my.id](https://recycopter.madebydap.my.id)  
 
 ## File Aplikasi, Makalah, PPT
 Untuk file aplikasi, makalah, dan PPT dapat diakses melalui link drive berikut: https://drive.google.com/drive/folders/1v1HDCOYMmTwczSwndK8_iqbb9Lme4jTf?usp=sharing
