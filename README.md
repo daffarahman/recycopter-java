@@ -64,4 +64,4 @@ gradlew.bat lwjgl3:run
 
 ## 👥 Credits
 
-Created by **Daffa Rahman** and **Asril**.
+Created by **Daffa Rahman** and **[Syaikhasril](https://github.com/Syaasr/)**.
